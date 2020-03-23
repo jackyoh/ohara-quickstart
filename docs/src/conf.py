@@ -37,7 +37,7 @@ import ConfigParser
 import StringIO
 import os
 
-ohara_version = '0.9.0'
+ohara_version = '0.9.1-SNAPSHOT'
 ohara_branch = '0.9.x'
 
 
