@@ -1,3 +1,5 @@
 # OharaStream Quickstart VM
 
-### Documentation: https://ohara-quickstart.readthedocs.io
+### Documentation: https://oharastream.github.io/en/docs/master/quickstart/quickstartvm/
+
+### Facebook user group: https://www.facebook.com/groups/oharastream/
